@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.egg-info/
+dist/
+.venv/
+.pytest_cache/
+
+# OS
+.DS_Store
+
+# Agent worktrees
+.claude/worktrees/
+
+# IDE linter cache
+.trunk/
